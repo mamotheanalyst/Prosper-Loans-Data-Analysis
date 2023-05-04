@@ -12,7 +12,7 @@ The main feaures of interest in the dataset are the following:
 
 # Relationships observed throughout the investigation
 
-The relationships observed in this investigation were between Borrower Rate and Loan Amounts and between Income Range and Prosper Rating. It is evident that all incomes above $25 000 have a better Prosper Rating than those that earn beneath this income range and the unemployed which increases their chances of being given a loan. Another relationship was between interest rates for borrowing and orgiginal loan amounts. It is evident that smaller loan amounts attract higher interest rates than large loan amounts.
+The relationships observed in this investigation were between Borrower Rate and Loan Amounts and between Income Range and Prosper Rating. It is evident that all incomes above $25 000 have a better Prosper Rating than those that earn beneath this income range and the unemployed which increases their chances of being given a loan. Another relationship was between interest rates for borrowing and orginal loan amounts. It is evident that smaller loan amounts attract higher interest rates than large loan amounts.
 
 # Conclusions
 
